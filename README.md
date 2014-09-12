@@ -4,9 +4,6 @@ A barebones build-out of all the important, awesome features of the ActiveRecord
 
 The purpose of this project was to more fully understand how ActiveRecord works under-the-hood, especially when it comes to building associations, inferring table names from class names, and building out SQL queries.
 
-##To Run
+##To Run (Still to-do!)
 
-* Clone this repo
-* Navigate to the file in your Terminal
-* Run ``$ rake db:create``
-* ``$ ruby demo.rb`` 
+* Please feel free to look through my code - I am currently in the process of getting this put together so it's runnable from the terminal!
